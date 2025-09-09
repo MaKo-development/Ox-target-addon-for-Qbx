@@ -11,3 +11,6 @@ Included features:
 🚑 Ambulance: Options menu
 
 🧍‍♂️ Player: Options menu
+
+
+<img width="1090" height="1021" alt="oogje" src="https://github.com/user-attachments/assets/e464610a-5f39-4b8e-bbd8-866143c1ff3e" />
